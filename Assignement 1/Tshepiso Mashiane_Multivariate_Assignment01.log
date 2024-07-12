@@ -1,0 +1,334 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  10 JUL 2024 12:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Tshepiso Mashiane_Multivariate_Assignment01.tex"
+(Tshepiso Mashiane_Multivariate_Assignment01.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count195
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def
+)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count196
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\englis
+h.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\ba
+bel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
+pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box51
+) (Tshepiso Mashiane_Multivariate_Assignment01.aux)
+\openout1 = `"Tshepiso Mashiane_Multivariate_Assignment01.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
+.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen145
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks19
+)
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
+f-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\36076724\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
+s.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+<Anova.png, id=1, 410.2828pt x 162.6075pt>
+File: Anova.png Graphic file (type png)
+<use Anova.png>
+Package pdftex.def Info: Anova.png  used on input line 25.
+(pdftex.def)             Requested size: 410.2818pt x 162.6071pt.
+
+Overfull \hbox (65.2818pt too wide) in paragraph at lines 25--26
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+
+ []
+
+[1
+
+{C:/Users/36076724/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Anova.p
+ng>]
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
+
+ []
+
+<P-Hoctest.png, id=13, 316.93407pt x 329.73187pt>
+File: P-Hoctest.png Graphic file (type png)
+<use P-Hoctest.png>
+Package pdftex.def Info: P-Hoctest.png  used on input line 64.
+(pdftex.def)             Requested size: 316.93329pt x 329.73105pt.
+[2 <./P-Hoctest.png>]
+<Frequecy1.png, id=18, 624.08156pt x 253.69781pt>
+File: Frequecy1.png Graphic file (type png)
+<use Frequecy1.png>
+Package pdftex.def Info: Frequecy1.png  used on input line 80.
+(pdftex.def)             Requested size: 345.0pt x 140.25038pt.
+<Frequency2.png, id=19, 666.99188pt x 240.14719pt>
+File: Frequency2.png Graphic file (type png)
+<use Frequency2.png>
+Package pdftex.def Info: Frequency2.png  used on input line 86.
+(pdftex.def)             Requested size: 345.0pt x 124.21765pt.
+<Reliability.png, id=20, 258.21469pt x 285.31593pt>
+File: Reliability.png Graphic file (type png)
+<use Reliability.png>
+Package pdftex.def Info: Reliability.png  used on input line 97.
+(pdftex.def)             Requested size: 119.59818pt x 132.1481pt.
+ [3 <./Frequecy1.png> <./Frequency2.png> <./Reliability.png>]
+<Descriptives.png, id=27, 389.20406pt x 344.03531pt>
+File: Descriptives.png Graphic file (type png)
+<use Descriptives.png>
+Package pdftex.def Info: Descriptives.png  used on input line 110.
+(pdftex.def)             Requested size: 345.0pt x 304.97256pt.
+<correlation matrix1.png, id=28, 825.83531pt x 435.87843pt>
+File: correlation matrix1.png Graphic file (type png)
+<use correlation matrix1.png>
+Package pdftex.def Info: correlation matrix1.png  used on input line 119.
+(pdftex.def)             Requested size: 345.0pt x 182.09pt.
+<correlation matrix2.png, id=29, 523.20468pt x 455.45157pt>
+File: correlation matrix2.png Graphic file (type png)
+<use correlation matrix2.png>
+Package pdftex.def Info: correlation matrix2.png  used on input line 123.
+(pdftex.def)             Requested size: 345.0pt x 300.32793pt.
+<KMO.png, id=30, 330.48468pt x 451.6875pt>
+File: KMO.png Graphic file (type png)
+<use KMO.png>
+Package pdftex.def Info: KMO.png  used on input line 129.
+(pdftex.def)             Requested size: 172.5pt x 235.76793pt.
+<total varience explained.png, id=31, 657.95813pt x 334.24875pt>
+File: total varience explained.png Graphic file (type png)
+<use total varience explained.png>
+Package pdftex.def Info: total varience explained.png  used on input line 139.
+(pdftex.def)             Requested size: 345.0pt x 175.2639pt.
+<scree plot.png, id=32, 651.93562pt x 386.19281pt>
+File: scree plot.png Graphic file (type png)
+<use scree plot.png>
+Package pdftex.def Info: scree plot.png  used on input line 146.
+(pdftex.def)             Requested size: 345.0pt x 204.37477pt.
+<component matrix.png, id=33, 386.19281pt x 357.58594pt>
+File: component matrix.png Graphic file (type png)
+<use component matrix.png>
+Package pdftex.def Info: component matrix.png  used on input line 152.
+(pdftex.def)             Requested size: 345.0pt x 319.4454pt.
+<Rotated components matrix.png, id=34, 358.33875pt x 382.42876pt>
+File: Rotated components matrix.png Graphic file (type png)
+<use Rotated components matrix.png>
+Package pdftex.def Info: Rotated components matrix.png  used on input line 159.
+
+(pdftex.def)             Requested size: 345.0pt x 368.21864pt.
+<component tranformation matrix.png, id=35, 306.39468pt x 138.5175pt>
+File: component tranformation matrix.png Graphic file (type png)
+<use component tranformation matrix.png>
+Package pdftex.def Info: component tranformation matrix.png  used on input line
+ 167.
+(pdftex.def)             Requested size: 345.0pt x 155.97974pt.
+File: Descriptives.png Graphic file (type png)
+<use Descriptives.png>
+Package pdftex.def Info: Descriptives.png  used on input line 173.
+(pdftex.def)             Requested size: 345.0pt x 304.97256pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: KMO.png Graphic file (type png)
+<use KMO.png>
+Package pdftex.def Info: KMO.png  used on input line 195.
+(pdftex.def)             Requested size: 172.5pt x 235.76793pt.
+File: correlation matrix1.png Graphic file (type png)
+<use correlation matrix1.png>
+Package pdftex.def Info: correlation matrix1.png  used on input line 219.
+(pdftex.def)             Requested size: 345.0pt x 182.09pt.
+File: correlation matrix2.png Graphic file (type png)
+<use correlation matrix2.png>
+Package pdftex.def Info: correlation matrix2.png  used on input line 220.
+(pdftex.def)             Requested size: 345.0pt x 300.32793pt.
+
+LaTeX Warning: Float too large for page by 98.81572pt on input line 225.
+
+File: total varience explained.png Graphic file (type png)
+<use total varience explained.png>
+Package pdftex.def Info: total varience explained.png  used on input line 230.
+(pdftex.def)             Requested size: 448.50105pt x 227.84715pt.
+
+Overfull \hbox (103.50105pt too wide) in paragraph at lines 230--231
+[] 
+ []
+
+File: scree plot.png Graphic file (type png)
+<use scree plot.png>
+Package pdftex.def Info: scree plot.png  used on input line 242.
+(pdftex.def)             Requested size: 345.0pt x 204.37477pt.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.246 \newline
+               The plot shows the eigenvalues for the 16 principal component...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: component matrix.png Graphic file (type png)
+<use component matrix.png>
+Package pdftex.def Info: component matrix.png  used on input line 258.
+(pdftex.def)             Requested size: 345.0pt x 319.4454pt.
+File: Rotated components matrix.png Graphic file (type png)
+<use Rotated components matrix.png>
+Package pdftex.def Info: Rotated components matrix.png  used on input line 270.
+
+(pdftex.def)             Requested size: 345.0pt x 368.21864pt.
+File: component tranformation matrix.png Graphic file (type png)
+<use component tranformation matrix.png>
+Package pdftex.def Info: component tranformation matrix.png  used on input line
+ 282.
+(pdftex.def)             Requested size: 345.0pt x 155.97974pt.
+[4 <./Descriptives.png>] [5 <./correlation matrix1.png> <./correlation matrix2.
+png>] [6 <./KMO.png> <./total varience explained.png>] [7 <./scree plot.png> <.
+/component matrix.png>] [8 <./Rotated components matrix.png> <./component tranf
+ormation matrix.png>] [9] [10] [11] [12] [13] [14] [15] [16] [17]
+(Tshepiso Mashiane_Multivariate_Assignment01.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2717 strings out of 474486
+ 47364 string characters out of 5742339
+ 1942542 words of memory out of 5000000
+ 25009 multiletter control sequences out of 15000+600000
+ 566195 words of font info for 52 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,65p,1034b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\36076724\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+cbx1000.pk> <C:\Users\36076724\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecbx1200.pk> <C:\Users\36076724\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecrm1000.pk> <C:\Users\36076724\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\36076724\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\36076724\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on "Tshepiso Mashiane_Multivariate_Assignment01.pdf" (17 pages, 
+403241 bytes).
+PDF statistics:
+ 279 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
